@@ -1,1 +1,2 @@
-# credit-risk-classification
+Module 20 credit-risk-classification Challenge. In this repositry I have uploaded a folder called credit-risk-classification which contains a sub folder called Credit_Risk. In this folder there is a Resources folder which contains the CSV file lending_data which was used to train the credit risk model. The credit risk model was created and analysed in the credit_risk_classification jupyter notebook file. The analysis of the model was contained in a markdown cell at the end of the jupyter notebook file. Additionally I attached a text file of the report. The pandas codes are annotated for ease of reading and understanding. To create the code I adapted code from class activities and lectures.
+
